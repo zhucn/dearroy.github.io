@@ -17,7 +17,7 @@ category: Life
 缴则吾等众生父母之血汗，用则堂皇如弃泥沙，馈归吾众生者，百不足一二。是以腐败滋生，天朝学府特为尤甚，
 吾等众生无以宣泄，唯得于卷轴经卷，悲壮痛山河，又恐以含沙射影加之罪，吾等又何能为哉！
 	
-<img src="pic.dearroy.com/github/the_angry_bird_by_vivialacarte-d3ke30y.jpg">
+<img src="http://pic.dearroy.com/github/the_angry_bird_by_vivialacarte-d3ke30y.jpg">
 	
 我曾经想，这世界，莫不是纯粹的错位连接而起的经纬，从任何一个落位看去，都是荒草丛生。
 
