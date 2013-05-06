@@ -1,0 +1,17 @@
+markdown: rdiscount
+pygments: true
+permalink: /:categories/:year/:month/:day/:title.html
+auto: true
+rdiscount:
+  extensions: [smart]
+title : 亲爱的罗伊
+production_url : http://dearroy.com
+description: "做有思想的记录者！"
+disqus_shortname: caarlos0blog
+analytics: UA-32899481-1
+gauges: 50f2b533613f5d7c8000000c
+author :
+  name : DearRoy
+  github : dearroy
+  twitter : PaulVPSllc
+  email: pacer406@qq.com
